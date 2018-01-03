@@ -5,7 +5,7 @@ import time
 
 # Twitter API Keys
 consumer_key = "uqWxn83alfwZNumLlvhO2Wv3c"
-consumer_secret = "	bttQrkHniBnVK1Ejiz2lr2hTm3kgnvB1lU9anXEaJoPxMCdtdH"
+consumer_secret = "bttQrkHniBnVK1Ejiz2lr2hTm3kgnvB1lU9anXEaJoPxMCdtdH"
 access_token = "145916665-EWEaAZsNq0VAOfGqKI5tPyDLcOD1SzzOrwStadiJ"
 access_token_secret = "YAOzvQQziom4i30VnvlteJjDYMxpXdCRDalrRa5HciXh"
 
